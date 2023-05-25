@@ -1,24 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.13d0965c.css",
-    "main.js": "/static/js/main.28e8c08c.js",
-    "static/media/kavach.png": "/static/media/kavach.b22f795fa34e7ef60dea.png",
-    "static/media/logo.png": "/static/media/logo.d99c3dfde446e2dd9a6b.png",
-    "static/media/kavach_app.png": "/static/media/kavach_app.25410ea88906c7dbdf91.png",
-    "static/media/contact-2_.png": "/static/media/contact-2_.e177a68c85670ed72b56.png",
-    "static/media/1_.png": "/static/media/1_.8841528ef84225af607f.png",
-    "static/media/contact-3_.png": "/static/media/contact-3_.573a00346ab0b368075d.png",
-    "static/media/contact-1_.png": "/static/media/contact-1_.c334bf14f88b36cc01bf.png",
+    "main.js": "/static/js/main.857dca1e.js",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.13d0965c.css.map": "/static/css/main.13d0965c.css.map",
-    "main.28e8c08c.js.map": "/static/js/main.28e8c08c.js.map"
+    "main.857dca1e.js.map": "/static/js/main.857dca1e.js.map"
   },
   "entrypoints": [
     "static/css/main.13d0965c.css",
-    "static/js/main.28e8c08c.js"
+    "static/js/main.857dca1e.js"
   ]
 }
