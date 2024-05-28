@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae5a1535.css",
-    "main.js": "/static/js/main.0953c6d2.js",
+    "main.css": "/static/css/main.ad97e21e.css",
+    "main.js": "/static/js/main.ffcaf70a.js",
     "static/js/453.8fce2124.chunk.js": "/static/js/453.8fce2124.chunk.js",
-    "static/media/screenshotFrom20240528074100Png.png": "/static/media/screenshotFrom20240528074100Png.a66bf9f48d5d82064dfe.png",
-    "static/media/screenshotFrom20240528074804Png.png": "/static/media/screenshotFrom20240528074804Png.71921b0c528b3ac3fa81.png",
-    "static/media/screenshotFrom20240528074738Png.png": "/static/media/screenshotFrom20240528074738Png.2668dd367fe57d373ec7.png",
-    "static/media/_1703246267582Jpeg.jpg": "/static/media/_1703246267582Jpeg.1017293f0ac75e36c24f.jpg",
-    "static/media/_1712766789841Jpeg.jpg": "/static/media/_1712766789841Jpeg.46de634691066bcfdf53.jpg",
-    "static/media/whatsAppImage20240528At081515Jpeg.jpg": "/static/media/whatsAppImage20240528At081515Jpeg.b82bf661133aad41a594.jpg",
+    "static/media/image2.png": "/static/media/image2.a66bf9f48d5d82064dfe.png",
+    "static/media/image4.png": "/static/media/image4.71921b0c528b3ac3fa81.png",
+    "static/media/image3.png": "/static/media/image3.2668dd367fe57d373ec7.png",
+    "static/media/image6.jpg": "/static/media/image6.1017293f0ac75e36c24f.jpg",
+    "static/media/image.jpg": "/static/media/image.46de634691066bcfdf53.jpg",
+    "static/media/image5.jpg": "/static/media/image5.b82bf661133aad41a594.jpg",
     "index.html": "/index.html",
-    "main.ae5a1535.css.map": "/static/css/main.ae5a1535.css.map",
-    "main.0953c6d2.js.map": "/static/js/main.0953c6d2.js.map",
+    "main.ad97e21e.css.map": "/static/css/main.ad97e21e.css.map",
+    "main.ffcaf70a.js.map": "/static/js/main.ffcaf70a.js.map",
     "453.8fce2124.chunk.js.map": "/static/js/453.8fce2124.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae5a1535.css",
-    "static/js/main.0953c6d2.js"
+    "static/css/main.ad97e21e.css",
+    "static/js/main.ffcaf70a.js"
   ]
 }
